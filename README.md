@@ -1,5 +1,5 @@
 <h1 align="center">Marcos Henrique</h1>
-<p align="center">Perfil do Marcos — <b>Python/Django</b> | APIs, mini-CRMs e automação.</p>
+<p align="center">Perfil do Marcos — <b>Python/Django</b> | APIs, CRMs e automação.</p>
 
 <p align="center">
   <!-- Tech badges -->
@@ -16,12 +16,12 @@
 ---
 
 ## Olá, eu sou o Marcos Henrique 👋
-Dev **Python/Django** — construo **APIs REST**, **mini-CRMs** e **automações** para PMEs e startups.  
+Dev **Python/Django** — construo **APIs REST**, **CRMs** e **automações** para PMEs e startups.  
 Foco em **escopo e preço fechados**, **entrega rápida (7–10 dias)** e **documentação clara**.
 
 ### 🔧 O que eu faço
 - **APIs REST** com **Django REST Framework** (auth **JWT**, rate limit, versionamento, **OpenAPI**).  
-- **Mini-CRMs / Portais de Leads** com **Django + HTMX** (UX rápida, sem SPA pesada).  
+- **CRMs / Portais de Leads** com **Django + HTMX** (UX rápida, sem SPA pesada).  
 - **Automações**: integrações com **Google Sheets**, e-mail, **webhooks**, pagamentos (**Mercado Pago/Stripe**).  
 - **Deploy** em Railway/Render/Fly.io (**Gunicorn + Nginx**), logs e backup.  
 - **Qualidade**: testes (**pytest**), **CI** com GitHub Actions, formatação (**black/ruff**).
